@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/khangnguyenhuu](https://github.com/khangnguyenhuu)
 
-- 💬 Ask me about **Python, AI, LLM**
+- 💬 You can ask me about **Python, AI, LLM, OCR system**
 
 - 📫 How to reach me **nskhang1gmail.com**
 
